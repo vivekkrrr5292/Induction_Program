@@ -3,5 +3,6 @@ A chief description by Vivek Kumar on the Induction Program held in GNDEC
 <br>
 Author :- Vivek Kumar 
 <br>
-# DAY 1 on GNDEC
+### DAY 1 on GNDEC
+Date :- 30th July 2025 <br>
 8:30-9:30 <br> We were brought to Gurudwara Sahib in our campus
